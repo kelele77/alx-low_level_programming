@@ -1,6 +1,6 @@
 /**
- * op_add - Add two integers
-11;rgb:0000/0000/0000 *
+* op_add - Add two integers
+*
 * @a: Integer 1
 * @b: Integer 2
 *
