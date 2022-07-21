@@ -1,6 +1,6 @@
 #include "main.h"
 
-]11;rgb:0000/0000/0000\/**
+/**
  * set_bit - sets the value of a bit to 1.
  * at a given index.
  * @n: pointer of an unsigned long int.
