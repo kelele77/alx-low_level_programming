@@ -1,6 +1,6 @@
 #include "lists.h"
 
-]11;rgb:0000/0000/0000\/**
+/**
  * delete_dnodeint_at_index - deletes the node at index of a
  * dlistint_t linked list
  *
